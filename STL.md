@@ -8,3 +8,4 @@
 ## unordered_map
 ## set
 ## unordered_set
+## [string](https://zh.cppreference.com/w/cpp/string/basic_string#.E6.95.B0.E5.80.BC.E8.BD.AC.E6.8D.A2)
