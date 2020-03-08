@@ -1,7 +1,7 @@
-## vector  
-## stack  
-## queue  
-## deque  
+## [vector](https://zh.cppreference.com/mwiki/index.php?title=cpp/container/vector&variant=zh-hans)  
+## [stack](https://zh.cppreference.com/w/cpp/container/stack)  
+## [queue](https://zh.cppreference.com/w/cpp/container/queue)  
+## [deque]()  
 ## priority_queue
 ## list
 ## map
